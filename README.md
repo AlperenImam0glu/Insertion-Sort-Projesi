@@ -1,1 +1,1 @@
-# Veri Yapıları ve Algoritmalar Eğitimi Projeleri
+# Veri Yapıları ve Algoritmaları Eğitimi Projeleri
