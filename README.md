@@ -1,2 +1,1 @@
-# Insertion-Sort-Projesi
-Veri Yapıları ve Algoritmalar Eğitimi Proje 1
+# Veri Yapıları ve Algoritmalar Eğitimi Projeleri
